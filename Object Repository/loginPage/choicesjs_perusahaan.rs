@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choicesjs_perusahaan</name>
+   <tag></tag>
+   <elementGuidId>93a02d15-4563-416f-87ee-1824726dfc20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@dir=&quot;ltr&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@dir=&quot;ltr&quot;]</value>
+      <webElementGuid>633bb256-fc04-4e89-b9b0-1644840c8530</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

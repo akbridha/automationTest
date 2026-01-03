@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_diperiksa</name>
+   <tag></tag>
+   <elementGuidId>3016f286-f80b-4639-89c8-9453c1fa6f47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@id=&quot;formValidate&quot;]/div[1]/div[2]/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@id=&quot;formValidate&quot;]/div[1]/div[2]/div[1]/div[1]</value>
+      <webElementGuid>bfdd13e6-6722-4fd6-bc9e-87176396001b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

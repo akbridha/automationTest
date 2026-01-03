@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_diperiksa</name>
+   <tag></tag>
+   <elementGuidId>60d6b7f9-ecc6-45ae-ac21-9c34b6d523c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;choices--diperiksa-item-choice-4&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;choices--diperiksa-item-choice-4&quot;]</value>
+      <webElementGuid>4f72e6aa-5a51-4c15-b9a3-5842e0d44ef8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

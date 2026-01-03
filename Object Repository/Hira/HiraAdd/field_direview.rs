@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_direview</name>
+   <tag></tag>
+   <elementGuidId>eba71592-7242-489e-a104-49a72957bc2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@id=&quot;formValidate&quot;]/div[1]/div[4]/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@id=&quot;formValidate&quot;]/div[1]/div[4]/div[1]/div[1]</value>
+      <webElementGuid>8a014e5e-7ae9-4655-b032-02bc911f1b74</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

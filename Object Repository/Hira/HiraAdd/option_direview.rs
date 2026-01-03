@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_direview</name>
+   <tag></tag>
+   <elementGuidId>876ac8d7-a136-4137-9f30-047f8a0306d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;choices--id_direview-item-choice-1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;choices--id_direview-item-choice-1&quot;]</value>
+      <webElementGuid>3dabccfd-1376-4c46-91bc-75b372a4c56c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

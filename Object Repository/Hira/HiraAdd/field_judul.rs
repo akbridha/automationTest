@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_judul</name>
+   <tag></tag>
+   <elementGuidId>454e81fc-8c7c-4667-8ea6-2966263b6d60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;judul_hira&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;judul_hira&quot;]</value>
+      <webElementGuid>4ca614b9-be8b-49aa-bd7d-7e284fdb4752</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

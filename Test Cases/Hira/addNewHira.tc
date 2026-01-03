@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addNewHira</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e246d40-3c1c-441a-a5ff-6fc3e5b60d83</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_team_review</name>
+   <tag></tag>
+   <elementGuidId>27074191-67b4-4d8d-9a5b-a9c763a15c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;choices--timreview-item-choice-3&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;choices--timreview-item-choice-3&quot;]</value>
+      <webElementGuid>a89a7141-27b1-4143-ae25-5484615a37b1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

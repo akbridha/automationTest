@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_abnormal</name>
+   <tag></tag>
+   <elementGuidId>01a0e6f2-6a61-4179-b67d-6447cf8dc3f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;flex4&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;flex4&quot;]</value>
+      <webElementGuid>7cc262aa-dddd-4b75-847a-5364d1f0f57f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

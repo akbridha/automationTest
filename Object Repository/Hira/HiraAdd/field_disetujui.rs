@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_disetujui</name>
+   <tag></tag>
+   <elementGuidId>e43b9691-a140-4940-9468-c921d78f135f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@id=&quot;formValidate&quot;]/div[1]/div[6]/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@id=&quot;formValidate&quot;]/div[1]/div[6]/div[1]/div[1]</value>
+      <webElementGuid>fa9c0ae6-762e-4b9e-9cd5-3007da6b0665</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

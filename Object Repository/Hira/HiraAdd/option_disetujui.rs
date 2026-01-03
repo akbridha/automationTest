@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_disetujui</name>
+   <tag></tag>
+   <elementGuidId>195b6407-4814-4a75-8377-c4cafce5737e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;choices--disetujui-item-choice-2&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;choices--disetujui-item-choice-2&quot;]</value>
+      <webElementGuid>765f54ea-f899-4aed-8fcb-6bf920180ba7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
